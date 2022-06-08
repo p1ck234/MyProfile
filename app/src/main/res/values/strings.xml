@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyProfile</string>
+    <string name="Name">Имя: Даниил</string>
+    <string name="Age">Возраст: 19</string>
+    <string name="Spec">Специальность: Информационные системы и программирование</string>
+    <string name="Photo">Фото</string>
+    <string name="Project">Проекты</string>
+    <string name="Achievement">Достижения</string>
+
+</resources>
